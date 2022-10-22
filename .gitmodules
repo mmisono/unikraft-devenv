@@ -1,0 +1,3 @@
+[submodule "unikraft-docs"]
+	path = unikraft-docs
+	url = https://github.com/unikraft/docs

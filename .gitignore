@@ -1,0 +1,8 @@
+*.swp
+*.swo
+build
+compile_commands.json
+.direnv
+.cache
+.config.old
+*.o
